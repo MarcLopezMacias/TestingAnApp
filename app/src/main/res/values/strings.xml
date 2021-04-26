@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestingAnApp</string>
+    <string name="username_login_hint">Username</string>
+    <string name="title_login">LOGIN FORM</string>
+    <string name="password_hint_login">Password</string>
+    <string name="login_button_text">Login or Register</string>
+    <string name="student_name_detail_text">Student name</string>
+    <string name="module_detail_text">Module code</string>
+    <string name="grade_detail_text">Grade from 0 to 10</string>
+    <string name="date_detail_text">dd/mm/yyyy</string>
+    <string name="assistance_detail_text">Assisted to the course</string>
+    <string name="title_detail_text">Grading</string>
+    <string name="update_button_detail">ADD / UPDATE</string>
+    <string name="back">BACK</string>
+    <string name="delete">DELETE</string>
+
+</resources>
